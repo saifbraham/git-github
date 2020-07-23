@@ -1,3 +1,3 @@
 # git-github
 this is a tutorial purpose
-new
+some changes
